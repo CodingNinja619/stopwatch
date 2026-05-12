@@ -4,7 +4,7 @@
 Использование хуков useState и useEffect
 
 # Стек
-React
-JS
+- React
+- JS
 
 ![photo](./readme_images/image.png)
